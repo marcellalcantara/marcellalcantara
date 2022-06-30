@@ -10,7 +10,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 - 📍 Living in Porto 🇵🇹 
-- 💻 Learning Front-End
+- 💻 Learning Back-End
 
 Reach me out 👇🏼
 
