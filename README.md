@@ -10,7 +10,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 - 📍 Living in Porto 🇵🇹 
-- 💻 Learning Back-End
+- 💻 Learning AWS Cloud Training | Python | Linux
 
 Reach me out 👇🏼
 
