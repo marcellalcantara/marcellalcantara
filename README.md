@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Marcella Alcantara Pereira 👩🏻🇧🇷
+My name is Marcella Pereira 👩🏻
 
 I'm starting my journey in software development.💻
 
@@ -10,7 +10,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 - 📍 Living in Porto 🇵🇹 
-- 💻 Learning AWS Cloud Training | Python | Linux
+- 💻 Learning AWS Cloud Training | Python | Linux | Windows |
 
 Reach me out 👇🏼
 
